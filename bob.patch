@@ -1,0 +1,19 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..1d45c0a
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++*.patch
+diff --git a/README.md b/README.md
+index f9108fa..8ba39fb 100644
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,6 @@
+ # Datenverarbeitung
+ This course  Lame!
+-
++But not too much
+ 
+ 
+ 
