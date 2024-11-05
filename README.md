@@ -1,5 +1,5 @@
 # Datenverarbeitung
-This course is awsome!
+This course  Lame!
 
 
 
